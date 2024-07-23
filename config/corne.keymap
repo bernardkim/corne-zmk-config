@@ -33,10 +33,10 @@
 
         layer_1 {
             bindings = <
-&kp GRAVE       &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3      &kp NUMBER_4       &kp NUMBER_5            &trans     &trans           &trans      &kp HOME  &kp PAGE_UP    &trans
-&kp LCTRL       &kp NUMBER_6  &kp NUMBER_7  &kp NUMBER_8      &kp NUMBER_9       &kp NUMBER_0            &trans     &kp RIGHT_SHIFT  &kp DELETE  &kp END   &kp PAGE_DOWN  &trans
-&kp LEFT_SHIFT  &kp MINUS     &kp EQUAL     &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp NON_US_BACKSLASH    &trans     &trans           &trans      &trans    &trans         &kp ENTER
-                                            &mo 2             &kp LEFT_ALT       &kp LEFT_COMMAND        &kp SPACE  &mo 1            &kp ESCAPE
+&kp GRAVE       &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3      &kp NUMBER_4       &kp NUMBER_5        &trans     &trans           &trans      &kp HOME  &kp PAGE_UP    &trans
+&kp LCTRL       &kp NUMBER_6  &kp NUMBER_7  &kp NUMBER_8      &kp NUMBER_9       &kp NUMBER_0        &trans     &kp RIGHT_SHIFT  &kp DELETE  &kp END   &kp PAGE_DOWN  &trans
+&kp LEFT_SHIFT  &kp MINUS     &kp EQUAL     &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp BACKSLASH       &trans     &trans           &trans      &trans    &trans         &kp ENTER
+                                            &mo 2             &kp LEFT_ALT       &kp LEFT_COMMAND    &kp SPACE  &mo 1            &kp ESCAPE
             >;
         };
 
